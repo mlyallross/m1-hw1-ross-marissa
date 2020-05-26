@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #439571;
+    color: #dddddd;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: 5%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 3%;
+}
+
+nav {
+    text-align: center;
+}
+
+main {
+    padding: 2%;
+}
+
+h2 {
+    text-decoration: underline;
+    padding: 4% 0;
+}
+
+p {
+    padding: 3%;
+}
+
+footer {
+    background-color: #dddddd;
+    color: #439571;
+    padding: 5%;
+    text-align: center;
+}
